@@ -1,5 +1,8 @@
-Do-You_Bleed????
-Extension for the HardCore COders
+## Do-You_Bleed????
+
+**_ Extension for the HardCore Coders _**
+
+![Screenshot](./screenshot.jpg)
 
 - Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
 - Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
