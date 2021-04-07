@@ -1,0 +1,22 @@
+{
+  "name": "geobrodas-theme-red-doyoubleed",
+  "displayName": "DoYouBleed",
+  "description": "geobrodas-official-theme",
+  "version": "0.0.1",
+  "publisher": "GeoBrodas",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DoYouBleed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DoYouBleed-color-theme.json"
+      }
+    ]
+  }
+}
