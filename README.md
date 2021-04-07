@@ -1,6 +1,6 @@
 ## Do-You_Bleed????
 
-**_ Extension for the HardCore Coders _**
+**Extension for the HardCore Coders**
 
 ![Screenshot](./screenshot.JPG)
 
