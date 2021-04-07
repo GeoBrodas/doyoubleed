@@ -4,6 +4,18 @@
   "description": "geobrodas-official-theme",
   "version": "0.0.1",
   "publisher": "GeoBrodas",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GeoBrodas/doyoubleed"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "geobrodas",
+    "iron man theme",
+    "batman",
+    "red theme"
+  ],
   "engines": {
     "vscode": "^1.54.0"
   },
