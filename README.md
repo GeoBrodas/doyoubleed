@@ -23,7 +23,9 @@ The Pallete consists of :-
 ### Theme Screenshots
 
 ![Screen-1](./s1.JPG)
+<br />
 ![Screen-2](./s2.JPG)
+<br />
 ![Screen-3](./s3.JPG)
 
 How to contribute to the theme?
