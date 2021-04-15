@@ -10,7 +10,7 @@
 - We are hearing you'll, do let us know for any changes..!!
 
 I seriously, don't know how I came up with this theme.
-Bascially it's a combination of Deadpool + Spiderman + Iconic Batman dialogue 'Do you Bleed?'
+Bascially it's a combination of Deadpool + Spiderman + Iron Man + Iconic Batman dialogue 'Do you Bleed?'
 
 **Extension for the HardCore Coders**
 
@@ -35,7 +35,7 @@ The Pallete consists of :-
 <br /> <hr />
 ![Screen-3](./s3.JPG)
 
-How to contribute to the theme?
+### How to contribute to the theme?
 
 - Check out the GitHub repo [here](https://github.com/GeoBrodas/doyoubleed)
 - Support! Give out some ⭐.
