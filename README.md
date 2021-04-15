@@ -2,6 +2,13 @@
 
 ![Screenshot](./screenshot.JPG)
 
+### What's new?
+
+- Updated the Tree Indent Lines
+- Few minor changes to the terminal
+- Changed colour for Active Tabs.
+- We are hearing you'll, do let us know for any changes..!!
+
 I seriously, don't know how I came up with this theme.
 Bascially it's a combination of Deadpool + Spiderman + Iconic Batman dialogue 'Do you Bleed?'
 
@@ -23,9 +30,9 @@ The Pallete consists of :-
 ### Theme Screenshots
 
 ![Screen-1](./s1.JPG)
-<br />
+<br /> <hr />
 ![Screen-2](./s2.JPG)
-<br />
+<br /> <hr />
 ![Screen-3](./s3.JPG)
 
 How to contribute to the theme?
